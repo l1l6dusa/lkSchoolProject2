@@ -3,7 +3,7 @@ using System.Linq;
 using UnityEngine;
 
 
-public class SpawnManager : MonoBehaviour
+public class Spawner : MonoBehaviour
 {
     [SerializeField] private float _spawnTimeRange;
 
